@@ -1,4 +1,4 @@
-# Ansible Commands
+# DevOps: Ansible
 
 ### Local 
     ansible localhost -m ping                                   --> Pings the localhost
