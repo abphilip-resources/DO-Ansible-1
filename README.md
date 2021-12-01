@@ -14,7 +14,7 @@
     ansible-playbook x.yml                                      --> Runs the playbook
     >  x.yml -v                                                 --> Runs the playbook with more details
     >  x.yml –e                                                 --> Passes variables to the playbook
-    >  -i y.ini x.yml                                           --> Runs the playbook with a different inventory
+    >  -i y.ini x.yml                                           --> Runs with a different inventory
     ansible-playbook x.yml –list-hosts                          --> Lists the hosts
     ansible-playbook x.yml –list-tasks                          --> Lists the tasks
     ansible-playbook x.yml –syntax-check                        --> Checks syntax of the playbook
